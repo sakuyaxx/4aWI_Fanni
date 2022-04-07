@@ -1,0 +1,21 @@
+.upper{
+    background-color: orange;
+    margin-bottom: 20px;
+    position: relative;
+    left: 150px;
+}
+
+.middle{
+    background-color: purple;
+    margin-bottom: 20px;
+    height: 200px;
+    position: absolute;
+    top: 20px;
+    right: 5px;;
+}
+
+.lower{
+    background-color: green;
+    height: 200x;
+    position: fixed;
+}
