@@ -45,3 +45,18 @@ for(let count = 0; count <= 8; count++)
 {
     console.log(name);
 }
+
+
+// Zähle von 0 auf 10, dann gib Deinen Namen aus, dann zähle von 10 auf 0
+
+for(count = 0; count <= 10; count++)
+{
+    console.log(count);
+}
+
+console.log(name);
+
+for(count = 10; count >= 0; count--)
+{
+    console.log(count);
+}
